@@ -15,7 +15,7 @@ namespace DI.Models
             {
                 new Employee(){Id = 1, Name = "Juan", Department = "d1", Email = "e1"},
                 new Employee(){Id = 2, Name = "Ana", Department = "d2", Email = "e2"},
-                new Employee(){Id = 3, Name = "Ale", Department = "d3", Email = "e3"}
+                new Employee(){Id = 3, Name = "Ale", Department = "d3", Email = "e3"} 
             };
         }
 
