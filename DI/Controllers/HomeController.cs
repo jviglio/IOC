@@ -20,7 +20,7 @@ namespace DI.Controllers
         public string Index()
         {
             return _employeeRepository.GetEmployee(2).Name;
-        }
+        } 
 
         public IActionResult Privacy()
         {
